@@ -4,7 +4,7 @@
 	"keywords": ["dashboard"],
 	"type": "wordpress-plugin",
 	"homepage": "http://blog.milandinic.com/wordpress/plugins/disable-wordpress-events-and-news-dashboard-widget/",
-	"license": "GPL-2.0+",
+	"license": "GPL-2.0-or-later",
 	"authors": [
 		{
 			"name": "Milan Dinić",
