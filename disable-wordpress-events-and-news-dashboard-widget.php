@@ -11,10 +11,10 @@
 
 /**
  * Plugin Name: Disable WordPress Events and News Dashboard Widget
- * Plugin URI:  http://blog.milandinic.com/wordpress/plugins/disable-wordpress-events-and-news-dashboard-widget/
+ * Plugin URI:  https://milandinic.com/wordpress/plugins/disable-wordpress-events-and-news-dashboard-widget/
  * Description: Disable WordPress Events and News widget from the dashboard.
  * Author:      Milan Dinić
- * Author URI:  http://blog.milandinic.com/
+ * Author URI:  https://milandinic.com/
  * Version:     1.0
  * Text Domain: disable-wordpress-events-and-news-dashboard-widget
  * Domain Path: /languages/
